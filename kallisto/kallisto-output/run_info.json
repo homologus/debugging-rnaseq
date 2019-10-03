@@ -1,0 +1,13 @@
+{
+	"n_targets": 2,
+	"n_bootstraps": 0,
+	"n_processed": 2000,
+	"n_pseudoaligned": 2000,
+	"n_unique": 1108,
+	"p_pseudoaligned": 100.0,
+	"p_unique": 55.4,
+	"kallisto_version": "0.46.0",
+	"index_version": 10,
+	"start_time": "Thu Oct  3 19:21:22 2019",
+	"call": "kallisto quant -i id -o op file1.fq file2.fq"
+}
