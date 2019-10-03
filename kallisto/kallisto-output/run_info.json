@@ -9,5 +9,5 @@
 	"kallisto_version": "0.46.0",
 	"index_version": 10,
 	"start_time": "Thu Oct  3 19:21:22 2019",
-	"call": "kallisto quant -i id -o op file1.fq file2.fq"
+	"call": "kallisto quant -i id -o kallisto-output file1.fq file2.fq"
 }
